@@ -43,4 +43,5 @@ class Operaciones_Matematicas {
   }
 }
 
+module.exports = Operaciones_Matematicas;
 //npm install
